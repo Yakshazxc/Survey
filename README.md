@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
-    <h1>GeeksforGeeks Survey Form</h1>
+    <h1>BOBO Survey Form</h1>
     <!-- Create Form -->
     <form id="form">
         <!-- Details -->
