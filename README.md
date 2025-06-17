@@ -30,7 +30,7 @@
             </select>
         </div>
         <div class="form-control">
-            <label>Would you recommend GeeksforGeeks to a friend?</label>
+            <label>Would you recommend BOBO to a friend?</label>
             <label for="recommed-1">
                 <input type="radio" id="recommed-1" name="recommed">Yes
             </label>
@@ -46,34 +46,34 @@
                 <small>(Check all that apply)</small>
             </label>
             <label for="inp-1">
-                <input type="checkbox" name="inp">C
+                <input type="checkbox" name="inp">BOBO AKO
             </label>
             <label for="inp-2">
-                <input type="checkbox" name="inp">C++
+                <input type="checkbox" name="inp">HINDI AKO BOBO
             </label>
             <label for="inp-3">
-                <input type="checkbox" name="inp">C#
+                <input type="checkbox" name="inp">MEDYO BOBO
             </label>
             <label for="inp-4">
-                <input type="checkbox" name="inp">Java
+                <input type="checkbox" name="inp">BOBO TALAGA
             </label>
             <label for="inp-5">
-                <input type="checkbox" name="inp">Python
+                <input type="checkbox" name="inp">BOBO SIYA
             </label>
             <label for="inp-6">
-                <input type="checkbox" name="inp">JavaScript
+                <input type="checkbox" name="inp">NONE OF THE ABOVE
             </label>
             <label for="inp-7">
-                <input type="checkbox" name="inp">React
+                <input type="checkbox" name="inp">TAE AKO
             </label>
             <label for="inp-8">
-                <input type="checkbox" name="inp">Angular
+                <input type="checkbox" name="inp">TAE SIYA
             </label>
             <label for="inp-9">
-                <input type="checkbox" name="inp">Django
+                <input type="checkbox" name="inp">AMOY PUTOK
             </label>
             <label for="inp-10">
-                <input type="checkbox" name="inp">Spring
+                <input type="checkbox" name="inp">BADING AKO
             </label>
         </div>
         <div class="form-control">
